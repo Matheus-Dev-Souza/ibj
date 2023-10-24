@@ -292,7 +292,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    background-color: #64daf4;
+    background-color: #f3ea35;
     color: #fefefd;
     text-align: center;
     padding: 10px;
@@ -326,7 +326,7 @@ button {
     top: 100px;
     left: -120px;
     color: #fcf8f8;
-    background-color: #b0d122;
+    background-color: #381563;
 }
 
 #banner_slider .carousel-control-next,
@@ -355,7 +355,7 @@ button {
     width: 100%;
     float: left;
     padding: 0px 0px;
-    background-color: #a7cd33;
+    background-color: #381563;
     height: auto;
 }
 
@@ -395,7 +395,7 @@ button {
     color: #ffffff;
     text-align: center;
     padding: 10px 0px;
-    background-color: #272727;
+    background-color: #f3ea35;
 
 }
 
@@ -427,7 +427,7 @@ button {
     height: 328px;
     font-size: 40px;
     text-align: center;
-    background-color: #a8cb26;
+    background-color: #f3ea35;
     border-radius: 170px;
     color: #ffffff;
     font-weight: bold;
@@ -484,7 +484,7 @@ button {
     font-size: 18px;
     color: #fefefd;
     text-align: center;
-    background-color: #a8cb26;
+    background-color: #f3ea35;
     font-weight: bold;
     padding: 20px;
 }
@@ -553,7 +553,7 @@ button {
     color: #fefefd;
     font-size: 18px;
     padding: 20px;
-    background-color: #a8cb26;
+    background-color: #f3ea35;
     text-align: center;
     position: absolute;
     top: 0px;
@@ -635,7 +635,7 @@ button {
 .client_taital_box {
     width: 100%;
     float: left;
-    border: 2px solid #b2d13e;
+    border: 2px solid #f3ea35;
     border-radius: 100px;
     height: auto;
     padding: 40px 20px 40px 20px;
@@ -878,7 +878,7 @@ textarea#comment::placeholder {
 .subscribe_bt a {
     width: 100%;
     float: left;
-    color: #a8cb26;
+    color: #ffffff;
     font-size: 18px;
     padding: 8px 0px;
     font-weight: bold;
