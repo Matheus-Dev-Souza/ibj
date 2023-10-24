@@ -787,7 +787,7 @@ textarea#comment.massage-bt::placeholder {
     width: 100%;
     float: left;
     height: auto;
-    background-color: #363636;
+    background-color: #381563;
     background-size: 100%;
     padding: 50px 0px;
 }
@@ -897,7 +897,7 @@ textarea#comment::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #363636;
+    background-color: #381563;
     height: auto;
 }
 
